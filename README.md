@@ -1,4 +1,6 @@
 # MEE-342---Principles-Mechanical-Design-Project
+Spring 2026 Semester
+Group 13
 Team members: Chase Winkelmann, Samantha Perek, Aza Zandieh, Phil Tran, Jon Seddon, Mahima Dattaguru
 
 Main Report: should link to section-specific markdown files if needed (e.g., phase1.md, phase2.md, phase3.md).
