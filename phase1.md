@@ -16,6 +16,6 @@ https://all3dp.com/2/3d-printed-ipad-stand-tablet/ - This shows many different 3
 
 https://www.simplify3d.com/resources/materials-guide/properties-table/  - Filament properties table with all the different types of material for 3D printing
 
-https://invzi.com/collections/magfree - where the iPad stand from the picture came from
+https://invzi.com/collections/magfree - Where the iPad stand from the picture came from
 
-https://www.snapmaker.com/blog/how-long-does-it-take-to-3d-print-something/ - knowledge about 3D printing time and how long it will take for future knowledge
+https://www.snapmaker.com/blog/how-long-does-it-take-to-3d-print-something/ - Knowledge about 3D printing time and how long it will take
