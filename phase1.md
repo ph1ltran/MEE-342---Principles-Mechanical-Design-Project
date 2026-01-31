@@ -11,6 +11,9 @@ The most likely failure modes of the iPad stand are static overload and fatigue 
 
 ## References
 https://all3dp.com/2/3d-printed-ipad-stand-tablet/ - This shows many different 3d printed iPad stands that we will use for references to what we might make, also talks about materials we could use
+
 https://www.simplify3d.com/resources/materials-guide/properties-table/  - Filament properties table with all the different types of material for 3D printing
+
 https://invzi.com/collections/magfree - where the iPad stand from the picture came from
+
 https://www.snapmaker.com/blog/how-long-does-it-take-to-3d-print-something/ - knowledge about 3D printing time and how long it will take for future knowledge
