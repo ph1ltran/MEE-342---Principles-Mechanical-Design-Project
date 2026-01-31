@@ -10,6 +10,8 @@ The iPad stand should be assembled from three main components: an angled support
 The most likely failure modes of the iPad stand are static overload and fatigue failure. Static overload could happen in two places; the first is in the mechanism that allows the iPad holder to be adjusted and the second is in the angled part of the base. The mechanism has to be both adjustable and able to lock in place, so a tightening bolt will be used. This way, the iPad can be placed on it without fear of the mechanism giving out and the bolt itself can be loosened so the stand can be adjusted as needed. Initially, a hinge was going to be used, however the material constraints would make it far more difficult to achieve a functional hinge then a tightening bolt. The angled part of the base faces a large stress concentration from the weight of the iPad which will need to be focused on during the CAD testing phase. Since the iPad holder is for everyday use, it is possible that it could eventually face fatigue failure. To limit this, the threads of the bolt and the screw will be smoothed after they are printed so there is no unwanted friction between the parts.
 
 ## References
+![INVZI MagFree Floating Magnetic Stand](https://m.media-amazon.com/images/S/aplus-media-library-service-media/04411821-0f30-46d6-beda-daad897061bd.__CR0,0,600,450_PT0_SX600_V1___.jpg)
+
 https://all3dp.com/2/3d-printed-ipad-stand-tablet/ - This shows many different 3d printed iPad stands that we will use for references to what we might make, also talks about materials we could use
 
 https://www.simplify3d.com/resources/materials-guide/properties-table/  - Filament properties table with all the different types of material for 3D printing
