@@ -2,3 +2,6 @@
 
 ## Component Breakdown
 <img width="791" height="1024" alt="iPad_Stand_Component_Motion" src="https://github.com/user-attachments/assets/b338d0d0-ffd8-48c7-b239-eaed6500252e" />
+
+## Kinematic Diagram
+![Kinematic Diagram](https://github.com/user-attachments/assets/efbd1d12-1463-4c91-a985-cf6c06949263)
