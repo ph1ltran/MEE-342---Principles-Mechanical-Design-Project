@@ -11,7 +11,7 @@ In regards to operating conditions, the iPad stand is expected to be used at roo
 ## Component Breakdown
 <img width="791" height="1024" alt="iPad_Stand_Component_Motion" src="https://github.com/user-attachments/assets/b338d0d0-ffd8-48c7-b239-eaed6500252e" />
 
-## Kinematic Description
+## Kinematic Description & Critical Design Parameters
 Our iPad stand is a 1-degree-of-freedom adjustable mechanism. The support arm rotates about a single hinge, creating a circular motion path about the hinge center, and the iPad platform rotates with the arm to change viewing angle. The range at which the iPad stand can adjust to is roughly a 180-degree angle, allowing a straight forward look, or backwards. Angle adjustment is achieved by loosening a threaded nut at the hinge, rotating the arm to the desired angle, and then tightening the nut to lock the position. Rotating the nut causes it to move along the threaded bolt by an amount given by the equation Δx = n·p, where each full turn moves the nut forward by one thread pitch, increasing or decreasing the clamping force that locks the arm’s angle. Tightening the nut (clockwise) increases friction at the hinge faces and prevents further rotation, while loosening the nut reduces clamp force and allows smooth repositioning between θ_min and θ_max mechanical limits. 
 ![Kinematic Diagram](https://github.com/user-attachments/assets/efbd1d12-1463-4c91-a985-cf6c06949263)
 
