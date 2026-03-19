@@ -1,5 +1,5 @@
 ## Overview of Final Design (w/ key CAD images)
-
+TBD
 
 ## Description of Major Design Decisions/Changes from Phase 1
 Since the completion of Phase 1 of this project, a few major decisions as well as design changes have been made by the team in order to satisfy printability and CAD requirements. 
@@ -11,11 +11,11 @@ Secondly, it was decided that the angled support of the iPad stand will need to 
 ![Phase 1 Sketch of Angled Support](https://github.com/user-attachments/assets/afd44ad9-bd02-4d22-aa63-78e97bb26810)
 
 ## Detailed Explanations of Required Analyses, Assumptions, and Results
-
+TBD
 
 ## Discussion of Design for Assembly and 3D Printing
-
+TBD
 
 ## Updated List of Anticipated Risks/Weaknesses to be Addressed in Prototyping
-
+TBD
 
