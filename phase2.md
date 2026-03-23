@@ -11,30 +11,30 @@ Secondly, it was decided that the angled support of the iPad stand will need to 
 ![Phase 1 Sketch of Angled Support](https://github.com/user-attachments/assets/afd44ad9-bd02-4d22-aa63-78e97bb26810)
 
 ## Detailed Explanations of Required Analyses, Assumptions, and Results
-1. Static Stress and Factor of Safety
+#1. Static Stress and Factor of Safety
 
-    The critical part evaluated from the static stress and factor of safety analysis is the holder. Using basic mechanics of materials and assuming that the part does not experience any torsional loads, the combined stress in the long part of the holder was calculated to be about 8 psi       and the combined stress around the edge of the hole was calculated to be about 2.85 psi, which agrees with the solution obtained from ANSYS (see FEA figures for comparison). The max combined stress in the holder, however, is expected to occur in the location where the cross section       of the part is reduced due to the hole’s presence. This value was calculated to be about 1000 psi, which does not agree with the solution from ANSYS which lists the max stress as just 16.911 psi in this area. But since ANSYS’ result is located at a sharp corner, it is concluded that     this value is actually a stress singularity, so the true max combined stress is expected to be around 1000 psi in the holder. Lastly, with structural steel as the selected material, the factor of safety was calculated to be FS = 36250/1000 = 36.25.
+The critical part evaluated from the static stress and factor of safety analysis is the holder. Using basic mechanics of materials and assuming that the part does not experience any torsional loads, the combined stress in the long part of the holder was calculated to be about 8 psi       and the combined stress around the edge of the hole was calculated to be about 2.85 psi, which agrees with the solution obtained from ANSYS (see FEA figures for comparison). The max combined stress in the holder, however, is expected to occur in the location where the cross section       of the part is reduced due to the hole’s presence. This value was calculated to be about 1000 psi, which does not agree with the solution from ANSYS which lists the max stress as just 16.911 psi in this area. But since ANSYS’ result is located at a sharp corner, it is concluded that     this value is actually a stress singularity, so the true max combined stress is expected to be around 1000 psi in the holder. Lastly, with structural steel as the selected material, the factor of safety was calculated to be FS = 36250/1000 = 36.25.
 
 ![Statics Image 1](https://github.com/user-attachments/assets/2db4e79e-fd5b-45b9-9e4d-32726ef0037d)
 ![Statics Image 2](https://github.com/user-attachments/assets/9799b4f6-2c38-4511-a83b-7ab8bd5c31a7)
 
-2. Fatigue Assessment
+#2. Fatigue Assessment
 
 Using the ‘fatigue tool’ found in the solution options of ANSYS mechanical for fully-reversed loading, the mean stress of the adjustable stand is estimated to be (1 + (-1))/2) = 0 psi and the alternating stress is estimated to be |(1 - (-1))|/2) = 1 psi. 
 
-3. Gear Tooth Loading
+#3. Gear Tooth Loading
 
 Not applicable - design doesn't involve gears.
 
-4. Key / Coupling / Interface Stresses
+#4. Key / Coupling / Interface Stresses
 
 Assuming that the external moment reaction acting on the holder is translated to a torsional moment acting on the bolt, which has a radius of 0.175 in, then the approximate max torsional shear stress of the bolt can be computed as Tc/J = (0.5625 lb*in)(0.175 in)/(π/2 * 0.175^4 in^4) = 66.817 psi. This is reasonable for structural steel, because the factor of safety is computed as FS = 36250/66.817 = 542.527.
 
-5. Bearing Load Check
+#5. Bearing Load Check
 
 Not applicable - design doesn't involve bearings.
 
-6. Global Safety Overview
+#6. Global Safety Overview
 
 
 ## Discussion of Design for Assembly and 3D Printing
