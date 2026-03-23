@@ -14,8 +14,8 @@ Secondly, it was decided that the angled support of the iPad stand will need to 
 TBD
 
 ## Discussion of Design for Assembly and 3D Printing
-TBD
+The assembly consists of four 3D-printed components: the stand, the iPad holder, a bolt, and a nut. The stand serves as the base structure, providing stability, while the iPad holder is designed to securely support the device at the desired angle. These two primary components are connected using the bolt, which passes through aligned holes in both the stand and the holder. The nut is then fastened onto the bolt to secure the connection, allowing the assembly to remain stable while also enabling easy adjustment or disassembly if needed. The nut and bolt system allows the holder to be “locked” at the desired position.
 
 ## Updated List of Anticipated Risks/Weaknesses to be Addressed in Prototyping
-TBD
+	The first risk that had to be considered in designing the stand was making sure it was not too top-heavy, or else it would tip over. The starting design for the part of the stand that holds the phone is a J-shaped piece with a height of 7 inches, a width of 4 inches, and a thickness of 0.25 inches. These measurements will give the phone enough support while still having a reasonable weight. During prototyping, this will be tested to see if any changes need to be made to the dimensions of the holder. Another risk that was found during phase one is making sure the angled base does not snap at the corner. The increased risk is due to the corner being a stress concentration, both in the FEA model and in the physical one. To remove this stress concentration, a fillet was added to the inside of the base, decreasing the amount of stress placed on that area.
 
