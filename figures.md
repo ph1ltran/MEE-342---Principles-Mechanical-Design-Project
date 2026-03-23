@@ -5,3 +5,6 @@
 
 ## Kinematic Diagram
 ![Kinematic Diagram](https://github.com/user-attachments/assets/efbd1d12-1463-4c91-a985-cf6c06949263)
+
+## CAD/FEA Screenshots
+
