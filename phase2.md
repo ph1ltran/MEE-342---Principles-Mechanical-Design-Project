@@ -1,5 +1,11 @@
 ## Overview of Final Design (w/ key CAD images)
-TBD
+![FEA Static Structural](https://github.com/user-attachments/assets/fd0bd08a-0374-4374-b8ad-136d8cce6ed3)
+![FEA Side Profile](https://github.com/user-attachments/assets/afd37903-fb24-4587-a8b0-c20029118bf8)
+![FEA Equivalent Stress](https://github.com/user-attachments/assets/c88040ae-f3df-483a-8aa3-6920a3c2e1de)
+![FEA Shear Stress](https://github.com/user-attachments/assets/1132ae62-6ca0-4cb0-adac-757ca2152711)
+![FEA Total Deformation](https://github.com/user-attachments/assets/1a5b5f58-60ca-4c54-b9c5-e5f8cb9e3080)
+![FEA Safety Factor](https://github.com/user-attachments/assets/1c6bb477-f688-4b5d-8127-392e62ff7091)
+![FEA Fatigue Tool](https://github.com/user-attachments/assets/22fd76b8-1ca4-49a7-a623-71f8b0794b53)
 
 ## Description of Major Design Decisions/Changes from Phase 1
 Since the completion of Phase 1 of this project, a few major decisions as well as design changes have been made by the team in order to satisfy printability and CAD requirements. 
