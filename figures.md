@@ -13,5 +13,5 @@
 <img width="320" height="131" alt="MEE342 FEA Equivalent Stress" src="https://github.com/user-attachments/assets/c88040ae-f3df-483a-8aa3-6920a3c2e1de" />
 <img width="320" height="129" alt="MEE342 FEA Shear Stress" src="https://github.com/user-attachments/assets/1132ae62-6ca0-4cb0-adac-757ca2152711" />
 <img width="320" height="133" alt="MEE342 FEA Total Deformation" src="https://github.com/user-attachments/assets/1a5b5f58-60ca-4c54-b9c5-e5f8cb9e3080" />
-<img width="1421" height="575" alt="MEE342 FEA Fatigue Tool" src="https://github.com/user-attachments/assets/22fd76b8-1ca4-49a7-a623-71f8b0794b53" />
 <img width="1418" height="588" alt="MEE342 FEA Safety Factor" src="https://github.com/user-attachments/assets/1c6bb477-f688-4b5d-8127-392e62ff7091" />
+<img width="1421" height="575" alt="MEE342 FEA Fatigue Tool" src="https://github.com/user-attachments/assets/22fd76b8-1ca4-49a7-a623-71f8b0794b53" />
