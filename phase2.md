@@ -38,7 +38,6 @@ Not applicable - design doesn't involve bearings.
 
 In summary, the critical location of the adjustable iPad stand is expected to be located near the hole of the holder where the bolt is to be inserted. The computed factor of safety of this critical location is FS = 36.25 (see Static Stress and Factor of Safety for more details).
 
-
 ## Discussion of Design for Assembly and 3D Printing
 The assembly consists of four 3D-printed components: the stand, the iPad holder, a bolt, and a nut. The stand serves as the base structure, providing stability, while the iPad holder is designed to securely support the device at the desired angle. These two primary components are connected using the bolt, which passes through aligned holes in both the stand and the holder. The nut is then fastened onto the bolt to secure the connection, allowing the assembly to remain stable while also enabling easy adjustment or disassembly if needed. The nut and bolt system allows the holder to be “locked” at the desired position.
 
