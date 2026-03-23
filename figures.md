@@ -7,7 +7,6 @@
 ![Kinematic Diagram](https://github.com/user-attachments/assets/efbd1d12-1463-4c91-a985-cf6c06949263)
 
 ## CAD/FEA Screenshots
-
 <img width="1420" height="582" alt="MEE342 FEA Static Structural" src="https://github.com/user-attachments/assets/fd0bd08a-0374-4374-b8ad-136d8cce6ed3" />
 <img width="1435" height="740" alt="MEE342 FEA Side Profile" src="https://github.com/user-attachments/assets/afd37903-fb24-4587-a8b0-c20029118bf8" />
 <img width="320" height="131" alt="MEE342 FEA Equivalent Stress" src="https://github.com/user-attachments/assets/c88040ae-f3df-483a-8aa3-6920a3c2e1de" />
