@@ -6,3 +6,6 @@ The critical part evaluated from the static stress and factor of safety analysis
 
 ![Statics Image 1](https://github.com/user-attachments/assets/2db4e79e-fd5b-45b9-9e4d-32726ef0037d)
 ![Statics Image 2](https://github.com/user-attachments/assets/9799b4f6-2c38-4511-a83b-7ab8bd5c31a7)
+
+## Finite Element Analysis (FEA)
+
