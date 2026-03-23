@@ -27,6 +27,7 @@ The critical part evaluated from the static stress and factor of safety analysis
 ### 2. Fatigue Assessment
 
 Using the ‘fatigue tool’ found in the solution options of ANSYS mechanical for fully-reversed loading, the mean stress of the adjustable stand is estimated to be (1 + (-1))/2) = 0 psi and the alternating stress is estimated to be |(1 - (-1))|/2) = 1 psi. 
+
 ![FEA Fatigue Tool](https://github.com/user-attachments/assets/22fd76b8-1ca4-49a7-a623-71f8b0794b53)
 
 ### 3. Gear Tooth Loading
