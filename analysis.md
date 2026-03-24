@@ -9,7 +9,7 @@ The critical part evaluated from the static stress and factor of safety analysis
 
 ## Fatigue Assessment
 
-By using the ‘fatigue tool’ in ANSYS for fully-reversed loading and analyzing the Goodman line under Mean Stress Theory, the mean stress of the adjustable stand was estimated to be (1 + (-1))/2) = 0 psi and the alternating stress was estimated to be |(1 - (-1))/2)| = 1 psi. 
+By using the ‘fatigue tool’ in ANSYS for fully-reversed loading and analyzing the Goodman line under Mean Stress Theory, the mean stress of the adjustable stand was estimated to be (1 + (-1))/2) = 0 psi and the alternating stress was estimated to be |(1 - (-1))/2)| = 1 psi. The fatigue factor of safety was also determined from ANSYS to be 15.
 
 ![FEA Fatigue Safety Factor](https://github.com/user-attachments/assets/7eb0257c-480b-41ff-8b86-95c5f709648a)
 ![FEA Fatigue Tool](https://github.com/user-attachments/assets/bff0dffb-00ca-4ab0-a6b2-24a751066240)
