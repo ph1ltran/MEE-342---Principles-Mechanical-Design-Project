@@ -19,14 +19,14 @@ Secondly, it was decided that the angled support of the iPad stand will need to 
 ## Detailed Explanations of Required Analyses, Assumptions, and Results
 ### 1. Static Stress and Factor of Safety
 
-The critical part evaluated from the static stress and factor of safety analysis is the holder. Using basic mechanics of materials and assuming that the part does not experience any torsional loads, the combined stress in the long part of the holder was calculated to be about 8 psi       and the combined stress around the edge of the hole was calculated to be about 2.85 psi, which agrees with the solution obtained from ANSYS (see FEA figures for comparison). The max combined stress in the holder, however, is expected to occur in the location where the cross section       of the part is reduced due to the hole’s presence. This value was calculated to be about 1000 psi, which does not agree with the solution from ANSYS which lists the max stress as just 16.911 psi in this area. But since ANSYS’ result is located at a sharp corner, it is concluded that     this value is actually a stress singularity, so the true max combined stress is expected to be around 1000 psi in the holder. Lastly, with structural steel as the selected material, the factor of safety was calculated to be FS = 36250/1000 = 36.25.
+The critical part evaluated from the static stress and factor of safety analysis is the holder. Using basic mechanics of materials and assuming that this part does not experience any torsional loads, the combined stress in the long part of the holder was calculated to be about 8 psi       and the combined stress around the edge of the hole was calculated to be about 2.85 psi, which agrees with the solution obtained from ANSYS (see FEA figures). The max combined stress in the holder, however, is expected to occur in the location where the cross section       of the part is reduced due to the hole’s presence. This value was calculated to be about 1000 psi, which does not agree with the solution from ANSYS which lists the max stress as just 16.911 psi in this area. But since ANSYS’ result is located at a sharp corner, it is concluded that     this result is actually a stress singularity, so the true max combined stress is expected to be around 1000 psi in the holder. Lastly, with structural steel as the selected material, the factor of safety was calculated to be FS = 36250/1000 = 36.25.
 
 ![Statics Image 1](https://github.com/user-attachments/assets/2db4e79e-fd5b-45b9-9e4d-32726ef0037d)
 ![Statics Image 2](https://github.com/user-attachments/assets/9799b4f6-2c38-4511-a83b-7ab8bd5c31a7)
 
 ### 2. Fatigue Assessment
 
-Using the ‘fatigue tool’ found in the solution options of ANSYS mechanical for fully-reversed loading, the mean stress of the adjustable stand is estimated to be (1 + (-1))/2) = 0 psi and the alternating stress is estimated to be |(1 - (-1))|/2) = 1 psi. 
+By using the ‘fatigue tool’ in ANSYS for fully-reversed loading and analyzing the Goodman line under Mean Stress Theory, the mean stress of the adjustable stand was estimated to be (1 + (-1))/2) = 0 psi and the alternating stress was estimated to be |(1 - (-1))/2)| = 1 psi. 
 
 ![FEA Fatigue Tool](https://github.com/user-attachments/assets/22fd76b8-1ca4-49a7-a623-71f8b0794b53)
 
@@ -36,7 +36,8 @@ Not applicable - design doesn't involve gears.
 
 ### 4. Key / Coupling / Interface Stresses
 
-Assuming that the external moment reaction acting on the holder is translated to a torsional moment acting on the bolt, which has a radius of 0.175 in, then the approximate max torsional shear stress of the bolt can be computed as Tc/J = (0.5625 lb*in)(0.175 in)/(π/2 * 0.175^4 in^4) = 66.817 psi. This is reasonable for structural steel, because the factor of safety is computed as FS = 36250/66.817 = 542.527. Therefore, failure is not expected to occur in the bolt.
+Assuming that the external moment reaction acting on the holder is translated to a torsional moment acting on the bolt, which has a radius of 0.175 in, then the approximate max torsional shear stress of the bolt was computed as Tc/J = (0.5625 lb*in)(0.175 in)/(π/2 * 0.175^4 in^4) = 66.817 psi. This is reasonable for structural steel, because the factor of safety was computed as FS = 36250/66.817 = 542.527. Therefore, failure is not expected to occur in the bolt in comparison to other potential critical locations.
+
 
 ### 5. Bearing Load Check
 
@@ -44,11 +45,11 @@ Not applicable - design doesn't involve bearings.
 
 ### 6. Global Safety Overview
 
-In summary, the critical location of the adjustable iPad stand is expected to be located near the hole of the holder where the bolt is to be inserted. The computed factor of safety of this critical location is FS = 36.25 (see Static Stress and Factor of Safety for more details).
+In summary, the critical location of the adjustable iPad stand is expected to be near the hole of the holder where the bolt is to be inserted. The computed factor of safety of this critical location is FS = 36.25 (see Static Stress and Factor of Safety for more details). On the other hand, the fatigue factor of safety was determined from ANSYS to be 15. This indicates that the iPad stand is more likely to succumb to fatigue failure than static failure. But since these safety factors were not exceedingly small, it was not necessary to implement any additional design modifications in order to achieve acceptable results.
 
 ## Discussion of Design for Assembly and 3D Printing
 The assembly consists of four 3D-printed components: the stand, the iPad holder, a bolt, and a nut. The stand serves as the base structure, providing stability, while the iPad holder is designed to securely support the device at the desired angle. These two primary components are connected using the bolt, which passes through aligned holes in both the stand and the holder. The nut is then fastened onto the bolt to secure the connection, allowing the assembly to remain stable while also enabling easy adjustment or disassembly if needed. The nut and bolt system allows the holder to be “locked” at the desired position.
 
 ## Updated List of Anticipated Risks/Weaknesses to be Addressed in Prototyping
-The first risk that had to be considered in designing the stand was making sure it was not too top-heavy, or else it would tip over. The starting design for the part of the stand that holds the phone is a J-shaped piece with a height of 7 inches, a width of 4 inches, and a thickness of 0.25 inches. These measurements will give the phone enough support while still having a reasonable weight. During prototyping, this will be tested to see if any changes need to be made to the dimensions of the holder. Another risk that was found during phase one is making sure the angled base does not snap at the corner. The increased risk is due to the corner being a stress concentration, both in the FEA model and in the physical one. To remove this stress concentration, a fillet was added to the inside of the base, decreasing the amount of stress placed on that area.
+The first risk that had to be considered in designing the stand was making sure it was not too top-heavy, or else it would tip over. The starting design for the part of the stand that holds the phone is a J-shaped piece with a height of 7 inches, a width of 4 inches, and a thickness of 0.25 inches. These measurements will give the phone enough support while still having a reasonable weight. During prototyping, this will be tested to see if any changes need to be made to the dimensions of the holder. Another risk that was found during phase one is making sure the angled base does not snap at the corner. The increased risk is due to the corner being a stress concentration, both in the FEA model and in the physical one. To remove this stress concentration, a fillet was added to the inside of the base, decreasing the amount of stress placed on that area. The final risk is the tightening bolt that will be used to adjust the holder and keep it in place. So far, the design for that has not changed, but it will be something to focus on during prototyping.
 
