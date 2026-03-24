@@ -5,6 +5,7 @@
 
 ## Phase 2 Videos
 Coming soon
+https://github.com/user-attachments/assets/7222eddb-1658-4c9f-b8cc-3d0c0665f094
 
 ## Phase 3 Video
 Coming soon
