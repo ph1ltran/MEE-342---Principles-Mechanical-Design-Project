@@ -1,6 +1,6 @@
 ## Overview of Final Design (w/ key CAD images)
 ### Video
-![FEA Overview](https://github.com/user-attachments/assets/684e30f0-5ba8-4716-a56b-c2a44ff6e8ca)
+https://github.com/user-attachments/assets/684e30f0-5ba8-4716-a56b-c2a44ff6e8ca
 
 ### Images
 ![FEA Geometry](https://github.com/user-attachments/assets/f2630c57-be3f-46e4-b401-6da40cf61219)
