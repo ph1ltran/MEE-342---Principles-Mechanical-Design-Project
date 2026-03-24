@@ -41,7 +41,6 @@ Not applicable - design doesn't involve gears.
 
 Assuming that the external moment reaction acting on the holder is translated to a torsional moment acting on the bolt, which has a radius of 0.175 in, then the approximate max torsional shear stress of the bolt was computed as Tc/J = (0.5625 lb*in)(0.175 in)/(π/2 * 0.175^4 in^4) = 66.817 psi. This is reasonable for structural steel, because the factor of safety was computed as FS = 36250/66.817 = 542.527. Therefore, failure is not expected to occur in the bolt in comparison to other potential critical locations.
 
-
 ### 5. Bearing Load Check
 
 Not applicable - design doesn't involve bearings.
@@ -55,4 +54,3 @@ The assembly consists of four 3D-printed components: the stand, the iPad holder,
 
 ## Updated List of Anticipated Risks/Weaknesses to be Addressed in Prototyping
 The first risk that had to be considered in designing the stand was making sure it was not too top-heavy, or else it would tip over. The starting design for the part of the stand that holds the phone is a J-shaped piece with a height of 7 inches, a width of 4 inches, and a thickness of 0.25 inches. These measurements will give the phone enough support while still having a reasonable weight. During prototyping, this will be tested to see if any changes need to be made to the dimensions of the holder. Another risk that was found during phase one is making sure the angled base does not snap at the corner. The increased risk is due to the corner being a stress concentration, both in the FEA model and in the physical one. To remove this stress concentration, a fillet was added to the inside of the base, decreasing the amount of stress placed on that area. The final risk is the tightening bolt that will be used to adjust the holder and keep it in place. So far, the design for that has not changed, but it will be something to focus on during prototyping.
-
