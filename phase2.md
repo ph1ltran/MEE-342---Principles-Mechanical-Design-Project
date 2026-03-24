@@ -1,4 +1,9 @@
 ## Overview of Final Design (w/ key CAD images)
+### Video
+https://github.com/user-attachments/assets/684e30f0-5ba8-4716-a56b-c2a44ff6e8ca
+
+
+### Images
 ![FEA Geometry](https://github.com/user-attachments/assets/f2630c57-be3f-46e4-b401-6da40cf61219)
 ![FEA Side Profile](https://github.com/user-attachments/assets/afd37903-fb24-4587-a8b0-c20029118bf8)
 ![FEA Equivalent Stress](https://github.com/user-attachments/assets/92f3a034-cc90-41f5-8f39-b05546c6d58b)
