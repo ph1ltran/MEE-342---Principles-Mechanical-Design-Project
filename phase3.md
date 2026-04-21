@@ -15,7 +15,17 @@ Color: Grey
 
 Number of Reprints: None
 
-## Assembly Procedure and Challenges:
+## Assembly Procedure:
+1. Align the hole of the device holder between the two holes of the angled support. Ensure that the holder has the correct orientation and is facing the right direction.
+
+2. Insert the threaded bolt through the hole, joining the holder to the support.
+
+3. Once the bolt has been completely inserted, thread the wingnut onto the end of the bolt and tighten until the position of the holder remains fixed. 
+
+4. To change the holder’s position, simply loosen the wingnut to adjust the position before tightening once again.
+
+
+## Assembly Challenges:
 The first challenge encountered in the assembly process was exporting the CAD model to an STL file as required by the FSE 3D Print Lab. Since the original CAD model was designed using the student version of ANSYS DesignModeler in order to facilitate the FEA procedures in Phase 2, exporting to an STL file was initially not an option. Multiple remedies to this obstacle were considered, such as transferring the model over to SpaceClaim for export or finding individuals with the full version of ANSYS who could then export the model to an STL file. Eventually, it was decided to redesign the model in SolidWorks while referencing the ANSYS model for the original design dimensions. This allowed the model to finally be exported to an STL file for 3D printing.
 
 The second challenge encountered was that the bolt was not able to be smoothly inserted into the hole joining the holder to the support, due to insufficient tolerance in the dimensions of the original design. However, this turned out to not be a significant problem, because applying sufficient force allowed the bolt to be completely inserted while firmly securing the holder to the support with the tightening of a wingnut.
