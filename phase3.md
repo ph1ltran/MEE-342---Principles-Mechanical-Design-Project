@@ -42,9 +42,9 @@ As mentioned previously, one surprise during the project was that the student ve
 ## List of Design Changes for a Hypothetical “Version 2”:
 If a second iteration of this project was run, some design changes/decisions that would be implemented in the future are:
 
-Creating the model in SolidWorks first, then importing into ANSYS to avoid dealing with the issue of exporting to STL for 3D printing
+1. Creating the model in SolidWorks first, then importing into ANSYS to avoid dealing with the issue of exporting to STL for 3D printing
 
-The part of the stand that holds the phone should have a hole in the bottom to allow people to charge their phone while it's on the stand
+2. The part of the stand that holds the phone should have a hole in the bottom to allow people to charge their phone while it's on the stand
 
-The lip of the stand should be decreased in size because it blocks a lot of the phone screen. We were worried about the phone falling off the stand, but seeing how it functions, the large size of the lip is unnecessary
+3. The lip of the stand should be decreased in size because it blocks a lot of the phone screen. We were worried about the phone falling off the stand, but seeing how it functions, the large size of the lip is unnecessary
 
