@@ -20,9 +20,9 @@ Number of Reprints: None
 
 2. Insert the threaded bolt through the hole, joining the holder to the support.
 
-3. Once the bolt has been completely inserted, thread the wingnut onto the end of the bolt and tighten until the position of the holder remains fixed. 
+3. Once the bolt has been completely inserted, thread the wingnut onto the end of the bolt and tighten until the holder is no longer loose and its position remains fixed.
 
-4. To change the holder’s position, simply loosen the wingnut to adjust the position before tightening once again.
+4. To change the holder’s position, simply loosen the wingnut to adjust the position before tightening the wingnut once again.
 
 
 ## Assembly Challenges:
