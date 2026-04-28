@@ -55,6 +55,7 @@ In a device such as a laptop or adjustable phone stand, many different companies
 
 <img width="1093" height="575" alt="Example Laptop Hinge" src="https://github.com/user-attachments/assets/d38ccc0e-e680-447a-b2dd-18ec0bdd8ed4" />
 
+
 The internal structure of a hinge (like the one in the image above) generally includes a cylindrical housing, a hardened steel shaft, friction components, and mounting brackets that attach to the device. The friction force is controlled by material selection and the amount of normal force applied between the contact surfaces. Materials such as stainless steel, brass, and polymer inserts are commonly used to balance durability, smooth motion, and wear resistance. In more advanced designs, additional elements such as torsion springs or damping systems may be included to improve performance, especially in heavier devices like laptops where maintaining screen position is critical.
 
 From a mechanical perspective, the hinge operates by balancing applied torque with internal frictional resistance. When a user opens or adjusts the device, the applied torque exceeds the frictional torque, allowing rotation. Once the external force is removed, the friction within the hinge prevents further motion, effectively holding the device in position.
