@@ -53,7 +53,7 @@ If a second iteration of this project was run, some design changes/decisions tha
 ## Understanding of a Real World Hinged Device
 In a device such as a laptop or adjustable phone stand, many different companies use different methods to achieve a self adjustable position. The most common design is frictional hinged rotation. This method uses a resistive torque to counteract any gravitational force or force applied from the weight of a phone. Inside the hinge, a central shaft is connected by two separate rotating bodies, while a series of frictional elements such as rubber, washers or clutching plates are compressed together from a loading. The compression then allows for a sort of rotating resistance, which can allow the hinge to move at a specified angle.
 
-[Example Laptop Hinge](<img width="1093" height="575" alt="Example Laptop Hinge" src="https://github.com/user-attachments/assets/d38ccc0e-e680-447a-b2dd-18ec0bdd8ed4" />)
+<img width="1093" height="575" alt="Example Laptop Hinge" src="https://github.com/user-attachments/assets/d38ccc0e-e680-447a-b2dd-18ec0bdd8ed4" />
 
 The internal structure of a hinge (like the one in the image above) generally includes a cylindrical housing, a hardened steel shaft, friction components, and mounting brackets that attach to the device. The friction force is controlled by material selection and the amount of normal force applied between the contact surfaces. Materials such as stainless steel, brass, and polymer inserts are commonly used to balance durability, smooth motion, and wear resistance. In more advanced designs, additional elements such as torsion springs or damping systems may be included to improve performance, especially in heavier devices like laptops where maintaining screen position is critical.
 
