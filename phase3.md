@@ -65,3 +65,6 @@ The internal structure of a hinge (like the one in the image above) generally in
 From a mechanical perspective, the hinge operates by balancing applied torque with internal frictional resistance. When a user opens or adjusts the device, the applied torque exceeds the frictional torque, allowing rotation. Once the external force is removed, the friction within the hinge prevents further motion, effectively holding the device in position.
 
 Hinges must also meet strict design requirements, including compact size, long-term durability, and consistent performance over thousands of cycles. Over time, as next-generation computing devices become increasingly thinner in order to satisfy consumer demands, hinge designs have become increasingly complex with smaller diameters and volume to meet size constraints.  
+
+<img width="747" height="488" alt="Example Laptop Hinge 2" src="https://github.com/user-attachments/assets/1faddcfa-7659-485f-9711-f97b32f5c98d" />
+
