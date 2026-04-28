@@ -48,3 +48,15 @@ If a second iteration of this project was run, some design changes/decisions tha
 
 3. The lip of the stand should be decreased in size because it blocks a lot of the phone screen. We were worried about the phone falling off the stand, but seeing how it functions, the large size of the lip is unnecessary
 
+4. In general, the width of most parts of the stand could probably be decreased slightly to reduce the amount of material used
+
+## Understanding of a Real World Hinged Device
+In a device such as a laptop or adjustable phone stand, many different companies use different methods to achieve a self adjustable position. The most common design is frictional hinged rotation. This method uses a resistive torque to counteract any gravitational force or force applied from the weight of a phone. Inside the hinge, a central shaft is connected by two separate rotating bodies, while a series of frictional elements such as rubber, washers or clutching plates are compressed together from a loading. The compression then allows for a sort of rotating resistance, which can allow the hinge to move at a specified angle.
+
+[Example Laptop Hinge](https://github.com/user-attachments/assets/1af481bf-1758-4bb4-8cbf-c206e9221fad)
+
+The internal structure of a hinge (like the one in the image above) generally includes a cylindrical housing, a hardened steel shaft, friction components, and mounting brackets that attach to the device. The friction force is controlled by material selection and the amount of normal force applied between the contact surfaces. Materials such as stainless steel, brass, and polymer inserts are commonly used to balance durability, smooth motion, and wear resistance. In more advanced designs, additional elements such as torsion springs or damping systems may be included to improve performance, especially in heavier devices like laptops where maintaining screen position is critical.
+
+From a mechanical perspective, the hinge operates by balancing applied torque with internal frictional resistance. When a user opens or adjusts the device, the applied torque exceeds the frictional torque, allowing rotation. Once the external force is removed, the friction within the hinge prevents further motion, effectively holding the device in position.
+
+Hinges must also meet strict design requirements, including compact size, long-term durability, and consistent performance over thousands of cycles. Over time, as next-generation computing devices become increasingly thinner in order to satisfy consumer demands, hinge designs have become increasingly complex with smaller diameters and volume to meet size constraints.  
