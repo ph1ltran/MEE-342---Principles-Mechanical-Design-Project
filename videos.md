@@ -12,4 +12,4 @@
 https://github.com/user-attachments/assets/684e30f0-5ba8-4716-a56b-c2a44ff6e8ca
 
 ## Phase 3 Video
-Coming soon
+[Phase 3 Video](https://drive.google.com/file/d/16Yx-jXtcq2Cfcu958getdcPu3kcB0Ceg/view?usp=sharing)
